@@ -1,0 +1,15 @@
+<html>
+    <head></head>
+    <body>
+        <center><h3><b><i>Genre</i></b></h3></center>
+        <center><a href="https://en.wikipedia.org/wiki/Fiction" target="right">Fiction</a></center><br/>
+        <center><a href="https://en.wikipedia.org/wiki/Non-fiction" target="right">Non-Fiction</a></center><br/>
+        <center><a href="https://en.wikipedia.org/wiki/Philosophy" target="right">Philosophy</a></center><br/>
+        <center><a href="https://en.wikipedia.org/wiki/Mystery_fiction" target="right">Mystery</a></center><br/>
+        <center><a href="https://en.wikipedia.org/wiki/Fantasy" target="right">Fantasy</a></center><br/>
+        <center><a href="https://en.wikipedia.org/wiki/Comedic_genres" target="right">Humor and Comedy</a></center><br/>
+        <center><a href="https://en.wikipedia.org/wiki/Travel_literature" target="right">Travel</a></center><br/>
+        <center><a href="https://en.wikipedia.org/wiki/Comic_book" target="right">Comics</a></center><br/>
+        <center><a href="https://en.wikipedia.org/wiki/List_of_genres#Adventure" target="right">Adventure</a></center><br/>
+    </body>
+</html>
